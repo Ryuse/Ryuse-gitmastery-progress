@@ -88,5 +88,14 @@
       "You have not made any commits yet!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755228385.789832,
+    "completed_at": 1755228385.879152,
+    "comments": [
+      "You have not made any commits yet!"
+    ],
+    "status": "Incomplete"
   }
 ]
